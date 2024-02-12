@@ -1,0 +1,71 @@
+[
+	{
+	"title": "Rustic breakfast",
+	"type": "dairy",
+	"description": "Rustic healthy breakfast set. cooked buckwheat groats with milk and honey on dark grunge backdrop. top view, copy space",
+	"filename": "40.jpg",
+	"height": 450,
+	"width": 307,
+	"price": 21.32,
+	"rating": 0
+  },
+	{
+	"title": "Sandwich with salad",
+	"type": "vegetable",
+	"description": "Vegan sandwich with salad, tomato and radish",
+	"filename": "32.jpg",
+	"height": 600,
+	"width": 398,
+	"price": 22.48,
+	"rating": 5
+  },
+	{
+	"title": "Raw legums",
+	"type": "vegetable",
+	"description": "Raw legums on the wooden table",
+	"filename": "4.jpg",
+	"height": 450,
+	"width": 299,
+	"price": 17.11,
+	"rating": 2
+  },
+	{
+	"title": "Pears juice",
+	"type": "fruit",
+	"description": "Fresh pears juice on the wooden table",
+	"filename": "17.jpg",
+	"height": 600,
+	"width": 398,
+	"price": 19.49,
+	"rating": 4
+  },
+	{
+	"title": "Fresh stawberry",
+	"type": "fruit",
+	"description": "Sweet fresh stawberry on the wooden table",
+	"filename": "8.jpg",
+	"height": 600,
+	"width": 399,
+	"price": 28.59,
+	"rating": 4
+  },
+	{
+	"title": "Brown eggs",
+	"type": "dairy",
+	"description": "Raw organic brown eggs in a basket",
+	"filename": "0.jpg",
+	"height": 600,
+	"width": 400,
+	"price": 28.1,
+	"rating": 4
+  }, {
+	"title": "Sweet fresh stawberry",
+	"type": "fruit",
+	"description": "Sweet fresh stawberry on the wooden table",
+	"filename": "1.jpg",
+	"height": 450,
+	"width": 299,
+	"price": 29.45,
+	"rating": 4
+}
+]

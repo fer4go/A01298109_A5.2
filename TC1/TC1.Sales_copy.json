@@ -1,0 +1,32 @@
+[
+  {
+    "SALE_ID": 1,
+    "SALE_Date": "01/12/23",
+    "Product": "Rustic breakfast",
+    "Quantity": 1
+  },
+  {
+    "SALE_ID": 1,
+    "SALE_Date": "01/12/23",
+    "Product": "Sandwich with salad",
+    "Quantity": 2
+  },
+  {
+    "SALE_ID": 1,
+    "SALE_Date": "01/12/23",
+    "Product": "Raw legums",
+    "Quantity": 1
+  },
+  {
+    "SALE_ID": 2,
+    "SALE_Date": "01/12/23",
+    "Product": "Fresh stawberry",
+    "Quantity": 1
+  },
+  {
+    "SALE_ID": 2,
+    "SALE_Date": "01/12/23",
+    "Product": "Pears juice",
+    "Quantity": 2
+  }
+]
